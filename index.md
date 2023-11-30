@@ -2,7 +2,7 @@
 no_comment: true
 ---
 
-<img src="/logo_banner.png" alt="Never" width="45%">
+<img src="/logo_banner.png" alt="Never" width=15em>
  
 
 ## News
