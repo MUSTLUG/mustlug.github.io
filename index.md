@@ -2,7 +2,7 @@
 no_comment: true
 ---
 # MUSTLUG
-![logo_banner](/logo_banner.png)
+<img src="/logo_banner.png",alt="Never" width="30%">
  
 
 ## News
