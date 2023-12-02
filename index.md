@@ -15,58 +15,9 @@ MUSTLUG 歡迎所有對自由軟件和 GNU/Linux 感興趣的人士加入。無�
 
 > 請使用電腦訪問網站以取得最佳效果。
 
+[Contact US 聯係我們](/contact_us/)
+[Join us 加入我們](/join_us/)
+
+
 ## News 新聞
 [MUSTLUG BBS SETUP COMPLETE](/bbs_setup_complete/)
-
-
-## Contact US 聯係我們
-
-MUSTLUG 官方設有討論群組：
-
-請閣下自行查看以下域名的 TXT 記錄。（目的為 Anti Spam）
-
-***MUSTLUG 水電站 on QQ:*** qq.contact.mustlug.org
-
-***MUSTLUG on Matrix:*** matrix.contact.mustlug.org
-
-***MUSTLUG 電子公告板:*** [MUSTLUG BBS](https://bbs.mustlug.org)
-
-## Join us 加入我們
-
-### 正式會員：
-
-請閣下電郵 MUSTLUG 郵箱。格式如下：
-
-**M.U.S.T. 學生：**
-1. 真實姓名+學院+學號
-2. 聯絡方式
-3. 附言
-
-注：需求綫下 KYC 。
-
-**非 M.U.S.T. 學生：**
-1. 真實姓名+學校+學院+學號
-2. 聯絡方式+通訊地址
-3. 附言
-
-**社會人士：**
-1. 真實姓名
-2. 聯絡方式+通訊地址
-3. 附言
-
-### 普通會員
-正式會員均需實名，普通會員無此需求。
-請閣下電郵 MUSTLUG ，格式如下：
-1. 姓名
-2. 聯絡方式
-3. 附言
-   
-注：普通會員無 MUSTLUG BBS 賬戶注冊許可。
-
-發送信件即代表：
-1. 本人聲明資料真實無誤。
-2. 本人了解 MUSTLUG 有權批准或拒絕申請人的入會申請。
-
-**私隱聲明：** MUSTLUG 不會向第三者披露閣下的個人資料。
-
-電郵：Mail service temporarily unavailable.
