@@ -16,6 +16,8 @@ MUSTLUG 歡迎所有對自由軟件和 GNU/Linux 感興趣的人士加入。無�
 > 請使用電腦訪問網站以取得最佳效果。
 
 [Contact US 聯係我們](/contact_us/)
+ 
+
 [Join us 加入我們](/join_us/)
 
 
