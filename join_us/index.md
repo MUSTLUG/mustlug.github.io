@@ -6,8 +6,9 @@ no_comment: true
 
 ### 正式會員：
 
-請閣下電郵 MUSTLUG 郵箱。格式如下：
-注：綫下或加入討論群組尋找負責人申請加入亦可。
+請閣下電郵 MUSTLUG 郵箱，或加入群聊尋找管理員。
+電郵格式如下：
+
 
 **M.U.S.T. 學生：**
 1. 真實姓名+學院+學號
@@ -41,4 +42,4 @@ no_comment: true
 
 **私隱聲明：** MUSTLUG 不會向第三者披露閣下的個人資料。
 
-電郵：Mail service temporarily unavailable.
+電郵：join-us@mustlug.org
