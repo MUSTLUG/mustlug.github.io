@@ -42,4 +42,4 @@ no_comment: true
 
 **私隱聲明：** MUSTLUG 不會向第三者披露閣下的個人資料。
 
-電郵：join-us@mustlug.org
+電郵：mail.contact.mustlug.org 的 TXT 記錄
