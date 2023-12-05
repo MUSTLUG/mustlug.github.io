@@ -43,3 +43,5 @@ no_comment: true
 **私隱聲明：** MUSTLUG 不會向第三者披露閣下的個人資料。
 
 電郵：mail.contact.mustlug.org 的 TXT 記錄
+
+> 注: 爲了 anti-spam 故所有通訊地址均不直接放出。
