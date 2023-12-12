@@ -9,6 +9,8 @@ MUSTLUG 官方設有討論群組：
 
 請閣下自行查看以下**域名的 TXT 記錄**。
 
+***MUSTLUG on Telegram*** telegram.contact.mustlug.org
+
 ***MUSTLUG 水電站 on QQ:*** qq.contact.mustlug.org
 
 ***MUSTLUG on Matrix:*** matrix.contact.mustlug.org
