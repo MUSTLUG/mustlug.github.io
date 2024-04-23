@@ -22,6 +22,6 @@ MUSTLUG 歡迎所有對自由軟件和 GNU/Linux 感興趣的人士加入。無�
 
 
 ## News 新聞
-[MustLUG 成員順利完成 ASC24 超算大賽](/lug_member_finished_asc24/)
+[MUSTLUG 成員順利完成 ASC24 超算大賽](/lug_member_finished_asc24/)
  
 [MUSTLUG BBS SETUP COMPLETE](/bbs_setup_complete/)
