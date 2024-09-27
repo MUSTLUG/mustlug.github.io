@@ -21,7 +21,9 @@ MUSTLUG 歡迎所有對自由軟件和 GNU/Linux 感興趣的人士加入。無�
 
 ## [Events 活動](/events/)
 ### Coming soon! 即將舉行的活動
-[MUST 快閃活動！](/events/flash_mob/)
+- [MUST 快閃活動！](/events/flash_mob/)
+- [2024 M.U.S.T CTF 資安攻防賽](/events/MUSTCTF/)
+- [AOSC 安同開源社區活動](/events/AOSC_event/)
 
 ## [News 新聞](/news)
 [MUSTLUG BBS SETUP COMPLETE](/news/bbs_setup_complete/)
