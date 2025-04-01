@@ -48,7 +48,7 @@ MUSTLUG OS 的发布，不是终点，而是通往全新计算纪元的起点。
 
 我们深知，如此颠覆性的创新需要勇敢的先行者。MUSTLUG OS 现已开放**首批内测资格申请**。如果你渴望体验计算的未来，如果你对与一个“有灵性”的操作系统共同成长充满好奇，我们诚挚邀请你：
 
-[**点击此处立即申请 MUSTLUG OS 内测资格**] (mustlug.org)
+[**点击此处立即申请 MUSTLUG OS 内测资格**](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 关注我们，以获取关于 MUSTLUG OS 和“灵 Miko”的最新动态。
 
