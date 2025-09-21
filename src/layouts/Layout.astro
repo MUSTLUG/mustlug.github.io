@@ -1,0 +1,57 @@
+---
+import { Image } from 'astro:assets';
+import logo from '../assets/logo_banner.png';
+const { frontmatter } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.png" />
+    <meta name="generator" content={Astro.generator} />
+    <title>
+      {frontmatter?.title ? frontmatter?.title + ' - MUSTLUG' : 'MUSTLUG'}
+    </title>
+  </head>
+
+  <body class="m-0 bg-amber-50">
+    <div class="max-w-screen-md mx-auto flex flex-col gap-8">
+      <header>
+        <div
+          class="p-4 b b-amber-100 bg-white rounded-b-md shadow-md flex flex-col items-center"
+        >
+          <a href="/">
+            <Image class="w-full max-w-xs" src={logo} alt="Logo" />
+          </a>
+          <div
+            class="flex flex-wrap gap-x-4 font-bold text-amber-700 *:hover:text-amber-900 *:transition-colors"
+          >
+            <a href="/about">About</a>
+            <a href="/contact-us">Contact us</a>
+            <a href="/events">Events</a>
+            <a href="/news">News</a>
+            <a href="/join-us">Join us</a>
+          </div>
+        </div>
+      </header>
+
+      <div
+        class="p-4 b b-amber-100 bg-white rounded-md shadow-md text-sm prose prose-truegray max-w-none"
+      >
+        <slot />
+      </div>
+
+      <div class="mb-8 text-center text-sm">
+        <span>© 2023 - {new Date().getFullYear()} MUSTLUG</span>
+        <a
+          class="text-amber-700"
+          href="https://creativecommons.org/licenses/by-nc/4.0/"
+        >
+          CC BY-NC 4.0
+        </a>
+      </div>
+    </div>
+  </body>
+</html>

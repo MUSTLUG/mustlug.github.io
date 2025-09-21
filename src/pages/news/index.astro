@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+const news = await getCollection('news');
+---
+
+<Layout>
+  <h1>News</h1>
+  <ul>
+    {
+      news
+        .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+        .map((item) => (
+          <li>
+            <a href={`/news/${item.slug}`}>{item.data.title}</a>
+            <i>{item.data.date.toDateString()}</i>
+          </li>
+        ))
+    }
+  </ul>
+</Layout>

@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+const events = await getCollection('events');
+---
+
+<Layout>
+  <h1>Events</h1>
+  <ul>
+    {
+      events
+        .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+        .map((item) => (
+          <li>
+            <a href={`/events/${item.slug}`}>{item.data.title}</a>
+            <i>{item.data.date.toDateString()}</i>
+          </li>
+        ))
+    }
+  </ul>
+</Layout>

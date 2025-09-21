@@ -1,9 +1,6 @@
 ---
-no_comment: true
+layout: '/src/layouts/Layout.astro'
 ---
-
-<img src="/logo_banner.png" alt="Never" width=200em>
-
 
 # 歡迎來到 M.U.S.T. Linux 用戶協會主頁
 
@@ -18,17 +15,3 @@ MUSTLUG 歡迎所有對自由軟件和 GNU/Linux 感興趣的人士加入。無�
 [Contact us 聯係方式/討論群組](/contact_us/)
 
 [Join us 加入我們](/join_us/)
-
-## [Events 活動](/events/)
-
-### Coming soon! 即將舉行的活動
-- [AOSC 安同開源社區活動](/events/AOSC_event/)
-
-### Planing... 正在籌備中的活動
-- [MUST 快閃活動！](/events/flash_mob/)
-- [2024 M.U.S.T CTF 資安攻防賽](/events/MUSTCTF/)
-
-## [News 新聞](/news)
-- [MUSTLUG BBS SETUP COMPLETE](/news/bbs_setup_complete/)
-
-- [MUSTLUG_OS](/news/MUSTLUG_OS/)
