@@ -12,7 +12,7 @@ const news = await getCollection('news');
         .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
         .map((item) => (
           <li>
-            <a href={`/news/${item.slug}`}>{item.data.title}</a>
+            <a href={`/news/${item.id}`}>{item.data.title}</a>
             <i>{item.data.date.toDateString()}</i>
           </li>
         ))
